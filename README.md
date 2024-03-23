@@ -6,6 +6,7 @@ My C++ solutions to LeetCode problems.
 |------|------------------------------------------------------------------|------------|----------|
 | 1    | Two Sum                                                          | Easy       | C++      |
 | 9    | Palindrome Number                                                | Easy       | C++      |
+| 27   | Remove Element                                                   | Easy       | C++      |
 | 50   | Pow(x, n)                                                        | Medium     | C++      |
 | 66   | Plus One                                                         | Easy       | C++      |
 | 125  | Valid Palindrome                                                 | Easy       | C++      |
