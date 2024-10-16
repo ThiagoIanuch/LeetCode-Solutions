@@ -26,3 +26,4 @@ My C++ solutions to LeetCode problems.
 | 2652 | Sum Multiples                                                    | Easy       | C++      |
 | 2706 | Buy Two Chocolates                                               | Easy       | C++      |
 | 2894 | Divisible and Non-divisible Sums Difference                      | Easy       | C++      |
+| 3099 | Harshad Number                                                   | Easy       | C++      |
