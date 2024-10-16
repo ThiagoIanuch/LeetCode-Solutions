@@ -12,6 +12,7 @@ My C++ solutions to LeetCode problems.
 | 125  | Valid Palindrome                                                 | Easy       | C++      |
 | 231  | Power of Two                                                     | Easy       | C++      |
 | 258  | Add Digits                                                       | Easy       | C++      |
+| 263  | Ugly Number                                                      | Easy       | C++      |
 | 326  | Power of Three                                                   | Easy       | C++      |
 | 344  | Reverse String                                                   | Easy       | C++      |
 | 345  | Reverse Vowels of a String                                       | Easy       | C++      |
