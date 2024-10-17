@@ -5,6 +5,7 @@ My C++ solutions to LeetCode problems.
 | #    | Title                                                            | Difficulty | Language |
 |------|------------------------------------------------------------------|------------|----------|
 | 1    | Two Sum                                                          | Easy       | C++      |
+| 7    | Reverse Integer                                                  | Medium     | C++      |
 | 9    | Palindrome Number                                                | Easy       | C++      |
 | 27   | Remove Element                                                   | Easy       | C++      |
 | 50   | Pow(x, n)                                                        | Medium     | C++      |
