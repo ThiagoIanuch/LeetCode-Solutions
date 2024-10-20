@@ -10,6 +10,7 @@ My C++ solutions to LeetCode problems.
 | 27   | Remove Element                                                   | Easy       | C++      |
 | 50   | Pow(x, n)                                                        | Medium     | C++      |
 | 66   | Plus One                                                         | Easy       | C++      |
+| 70   | Climbing Stairs                                                  | Easy       | C++      |
 | 125  | Valid Palindrome                                                 | Easy       | C++      |
 | 231  | Power of Two                                                     | Easy       | C++      |
 | 258  | Add Digits                                                       | Easy       | C++      |
