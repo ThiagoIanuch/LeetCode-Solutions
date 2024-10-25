@@ -12,6 +12,7 @@ My C++ solutions to LeetCode problems.
 | 66   | Plus One                                                         | Easy       | C++      |
 | 70   | Climbing Stairs                                                  | Easy       | C++      |
 | 125  | Valid Palindrome                                                 | Easy       | C++      |
+| 136  | Single Number                                                    | Easy       | C++      |
 | 217  | Contains Duplicate                                               | Easy       | C++      |
 | 231  | Power of Two                                                     | Easy       | C++      |
 | 258  | Add Digits                                                       | Easy       | C++      |
